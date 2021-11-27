@@ -7,8 +7,6 @@ import IPython
 import os
 import zipfile
 import os
-import cv2
-import string
 import torch.nn as nn
 import plotly.express as px
 import streamlit as st
