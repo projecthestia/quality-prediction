@@ -1,0 +1,5 @@
+DeatonAndLipka_EE.do (application/x-stata-syntax) 3650 bytes.
+DeatonAndLipka_EE.dta (application/x-stata-14) 22939 bytes.
+DeatonAndLipka_EE_2021.pdf (application/pdf) 3680253 bytes.
+DeatonAndLipka_EE_DataDictonary.pdf (application/pdf) 144164 bytes.
+DeatonLipka_VariableLevelMetadata_EE.pdf (application/pdf) 463270 bytes.
