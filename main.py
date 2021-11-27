@@ -134,7 +134,7 @@ def train_model(norm_df):
     all_feats = [f"{list(norm_df.iloc[:, :-1])[idx]}:{feat_importance[idx][-1]}\n" for idx in range(len(feat_importance))]
     st.markdown(' '.join(i for i in all_feats))
 
-    check_call(['dot','-Tpng','/Users/devpatelio/Downloads/Coding/Python/indigenous_water_crisis/tree.dot','-o','output.png'])
+    check_call(['dot','-Tpng','tree.dot','-o','output.png'])
     st.image(Image.open("output.png"), caption='Random Forest Visualizer')
 
     return rfregression
